@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>Python开荒</title>
+      <link href="/2023/09/17/Python%E5%BC%80%E8%8D%92/"/>
+      <url>/2023/09/17/Python%E5%BC%80%E8%8D%92/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Python开荒"><a href="#Python开荒" class="headerlink" title="Python开荒"></a>Python开荒</h1><p>安装python环境</p><p>一笔带过  网上好多安装教程  一直下一步就ok</p><hr><h2 id="Python"><a href="#Python" class="headerlink" title="Python"></a>Python</h2><p>Python对大小写敏感</p><p>Python语句没有分号</p><p>一般定义变量用小写字母，特殊的关键字用大写  小写会显示错误</p><p>print()内置输出函数</p><p>input()内置输入函数</p><p>int()强转类型函数</p><p>三个单引号 可以跨行  否则只能通过\续行符连接</p><p><img src="/../images/Python%E5%BC%80%E8%8D%92/image-20230917194010470.png" alt="image-20230917194010470"></p><hr><h2 id="神奇的索引"><a href="#神奇的索引" class="headerlink" title="神奇的索引"></a>神奇的索引</h2><p>字符串</p><p>-1索引得到的是末尾最后一个单词  -2 是倒数第二个  以此类推</p><p><img src="/../images/Python%E5%BC%80%E8%8D%92/image-20230917195117059.png" alt="image-20230917195117059"></p><p>当然这并不是说它不会越界  正向 反向是分别计算的  所以两种超出后都会报错</p><p><img src="/../images/Python%E5%BC%80%E8%8D%92/image-20230917201000080.png" alt="image-20230917201000080"></p><p><img src="/../images/Python%E5%BC%80%E8%8D%92/image-20230917201008608.png" alt="image-20230917201008608"></p><p>还可以这样用  取第一个索引到第二个索引的数据</p><p><img src="/../images/Python%E5%BC%80%E8%8D%92/image-20230917202023533.png" alt="image-20230917202023533"></p><p><img src="/../images/Python%E5%BC%80%E8%8D%92/image-20230917202028575.png" alt="image-20230917202028575"></p><p>不写代表所有</p><hr><p>换Python_子木教程</p><h2 id="Python简述"><a href="#Python简述" class="headerlink" title="Python简述"></a>Python简述</h2><ul><li>Python对大数据分析、人工智能中至关重要的机器学习、深度学习都提供了大力的支持</li><li>背后又庞大的“代码库”</li><li>人们习惯称为“胶水语言”  -因为可以缝合多种语言的模块</li></ul><hr><h2 id="搭建Python环境"><a href="#搭建Python环境" class="headerlink" title="搭建Python环境"></a>搭建Python环境</h2><p>从官方直接下载对应位数的解释器</p><p>安装完成后 开始菜单会添加有Python文件夹里面有自带的g编译器 终端 开发文档 已安装模块文档</p><hr><h2 id="第一个Python程序"><a href="#第一个Python程序" class="headerlink" title="第一个Python程序"></a>第一个Python程序</h2><p>当然是Hello World了</p><p>直接</p><p>print(“Hello world”)</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Python </tag>
+            
+            <tag> 笔记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>C51单片机</title>
       <link href="/2023/09/12/51%E5%8D%95%E7%89%87%E6%9C%BA/"/>
       <url>/2023/09/12/51%E5%8D%95%E7%89%87%E6%9C%BA/</url>
